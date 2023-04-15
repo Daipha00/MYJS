@@ -1,0 +1,35 @@
+/* body{
+    background-color: beige;
+} */
+/* .spa strong{
+    font-weight: 600;
+    font-size: xx-large;
+    text-shadow: 1px 0 0.2em blue;
+}
+.form-container{
+    background-color: white;
+    border-radius: .32rem;
+    box-shadow: 2px 2px 1em .2em black;
+    width: fit-content;
+    color: antiquewhite;
+    margin: 0 auto;
+    padding: 150px;
+} */
+
+.google{
+    background-color: white;
+    border-color: red;
+    width: 40%;
+
+}
+sub{
+    vertical-align: bottom;
+    font-size: 20px;
+    position: absolute;
+    top: 215px;
+    color: black;
+}
+input{
+    width: 600px;
+    height: 25px;
+}
